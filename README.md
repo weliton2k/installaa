@@ -2,7 +2,7 @@
 
 Fazendo download do instalador e executando o instalador: 💾
 ```bash
-sudo apt install -y git && git clone https://github.com/AutoAtende/AA-INSTALLER.git autoatende && sudo chmod -R 777 ./autoatende && cd ./autoatende && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/weliton2k/installaa.git autoatende && sudo chmod -R 777 ./autoatende && cd ./autoatende && sudo ./install_primaria
 ```
 
 ## Requisitos
